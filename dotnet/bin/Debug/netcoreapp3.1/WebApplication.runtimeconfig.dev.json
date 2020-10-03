@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/home/gspadilha/.dotnet/store/|arch|/|tfm|",
+      "/home/gspadilha/.nuget/packages"
+    ]
+  }
+}
